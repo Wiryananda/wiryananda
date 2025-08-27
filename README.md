@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Hi there 👋
 
 ![wiryananda](assets/header.png)
@@ -16,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+=======
+helloo
+>>>>>>> 8afddaccf7a487b9d8a880ebeb9d342dd08b08cd
